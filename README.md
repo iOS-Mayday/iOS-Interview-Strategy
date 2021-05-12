@@ -36,7 +36,11 @@
 # 2021年最新iOS进阶技术视频+BAT面试专题PDF+学习路线图
 
 给大家分享的资料包括 iOS进阶技术视频+面试文档+学习路线图，希望能帮助大家学习提升进阶，也节省大家在网上搜索资料的时间来学习，也是可以分享给身边好友一起学习的！
-
+# 进阶视频
+![视频](https://user-images.githubusercontent.com/70994474/117925973-97b2ae00-b32a-11eb-8140-50fbca5def2f.png)
+# BAT面试题
+![面试题](https://user-images.githubusercontent.com/70994474/117925960-8ff30980-b32a-11eb-8064-77442c161386.png)
+# 学习路线图
 ![2021最新iOS知识体系图](https://user-images.githubusercontent.com/70994474/117924731-bd3eb800-b328-11eb-94b1-122a8968a1ae.png)
 ![iOS逆向实战班（无价格）](https://user-images.githubusercontent.com/70994474/117924792-dfd0d100-b328-11eb-8e9a-63b0d8a03d11.png)
 ![视觉全训班（无价格）](https://user-images.githubusercontent.com/70994474/117924867-042cad80-b329-11eb-9af2-8cae75d29547.png)
